@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://wolf4ood.github.io/sitemap.xml
